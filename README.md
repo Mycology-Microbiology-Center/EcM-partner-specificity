@@ -2,8 +2,8 @@
 
 ## Scripts
 
-`SEM_script.R` - structural equation modelling script
-`IndicSpecies.R` - script for the indicator analysis for species combinations
+`SEM_script.R` - structural equation modelling script  
+`IndicSpecies.R` - script for the indicator analysis for species combinations  
 
 ## Sequence data
 
