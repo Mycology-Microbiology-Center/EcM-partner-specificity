@@ -5,6 +5,7 @@
 `SEM_script.R` - structural equation modelling script  
 `IndicSpecies.R` - script for the indicator analysis for species combinations  
 `Bipartite Network.R` - script for bipartite network creation (plant genera and fungal species)  
+`variation_partitioning.R` - commands used for variation partitioning  
 
 ## Sequence data
 
